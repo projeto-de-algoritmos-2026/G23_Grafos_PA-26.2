@@ -183,7 +183,3 @@ G23_Grafos_PA-26.2/
         ├── colors.py       # Paleta da interface
         └── fonts.py        # Carregamento das fontes
 ```
-
-## Referências de apresentação
-
-A organização deste README tomou como referência os projetos [MazeSolver](https://github.com/projeto-de-algoritmos-2026/Grafos_MazeSolver) e [DesafioLabirinto](https://github.com/projeto-de-algoritmos-2026/Grafos1_DesafioLabirinto), da organização da disciplina. As funcionalidades, os controles e as configurações descritos correspondem à implementação deste repositório.
