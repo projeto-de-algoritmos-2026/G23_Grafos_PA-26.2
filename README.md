@@ -47,6 +47,19 @@ O projeto possui **quatro algoritmos** e **seis opções de execução**, pois A
 
 Essas estimativas não superestimam o custo restante em uma grade com movimentos em quatro direções e custo mínimo de terreno igual a 1. Assim, as variantes utilizadas pelo projeto preservam a busca por um caminho de custo mínimo. Manhattan representa a distância mínima em movimentos sem obstáculos, não o custo exato de uma rota com paredes e terrenos variados.
 
+## Capturas de tela
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshots/bfs.png" width="420" alt="Execução do BFS resolvendo o labirinto"><br>BFS</td>
+    <td align="center"><img src="assets/screenshots/dfs.png" width="420" alt="Execução do DFS resolvendo o labirinto"><br>DFS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshots/dijkstra.png" width="420" alt="Execução do Dijkstra resolvendo o labirinto"><br>Dijkstra</td>
+    <td align="center"><img src="assets/screenshots/astar_manhattan.png" width="420" alt="Execução do A* com heurística Manhattan resolvendo o labirinto"><br>A* (Manhattan)</td>
+  </tr>
+</table>
+
 ## Funcionalidades
 
 - Geração de labirintos com paredes e terrenos de custos variados.
