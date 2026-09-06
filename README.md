@@ -49,6 +49,10 @@ Essas estimativas não superestimam o custo restante em uma grade com movimentos
 
 <table>
   <tr>
+    <td align="center"><img src="assets/screenshots/menu.png" width="420" alt="Menu de seleção de algoritmo"><br>Menu de seleção</td>
+    <td align="center"><img src="assets/screenshots/ranking.png" width="420" alt="Ranking comparativo entre os algoritmos"><br>Ranking comparativo</td>
+  </tr>
+  <tr>
     <td align="center"><img src="assets/screenshots/bfs.png" width="420" alt="Execução do BFS resolvendo o labirinto"><br>BFS</td>
     <td align="center"><img src="assets/screenshots/dfs.png" width="420" alt="Execução do DFS resolvendo o labirinto"><br>DFS</td>
   </tr>
