@@ -4,8 +4,6 @@ Visualizador de buscas em labirintos com obstáculos e terrenos de diferentes cu
 
 **Grupo:** 23 · **Período:** 2026.2 · **Conteúdo:** Grafos e caminhos mínimos
 
-**Vídeo de apresentação:** [assista aqui](https://youtu.be/p9Ocs_O742g)
-
 ## Alunos
 
 <table>
@@ -198,3 +196,7 @@ G23_Grafos_PA-26.2/
         ├── colors.py       # Paleta da interface
         └── fonts.py        # Carregamento das fontes
 ```
+
+## 🎥 Apresentação do Projeto
+
+[![Apresentação do Projeto](https://img.youtube.com/vi/p9Ocs_O742g/maxresdefault.jpg)](https://youtu.be/p9Ocs_O742g)
