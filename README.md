@@ -4,6 +4,8 @@ Visualizador de buscas em labirintos com obstáculos e terrenos de diferentes cu
 
 **Grupo:** 23 · **Período:** 2026.2 · **Conteúdo:** Grafos e caminhos mínimos
 
+**Vídeo de apresentação:** [assista aqui](https://youtu.be/p9Ocs_O742g)
+
 ## Alunos
 
 <table>
